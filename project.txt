@@ -2,3 +2,4 @@ It's a new file and new tree
 i learn use GitHub and their command
 And sorry for my English level
 addnew
+setup
